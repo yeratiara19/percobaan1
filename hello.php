@@ -3,7 +3,7 @@
 	<title>Web App Sederhana</title>
 </head>
 <body>
-	<form action="hello.php" method="POST">
+	<form action="Hallo.php" method="POST">
 		Nama : <input type="text" name="nama"/>
 		<br>
 		Email : <input type="email" name="email"/>
